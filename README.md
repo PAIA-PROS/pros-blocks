@@ -8,14 +8,14 @@ Pre-built installers of latest release can be downloaded from the links below.
 
 ### Windows 64-bit
 
-[![](https://img.shields.io/badge/EXE%20Installer-v1.0.1-blue)](https://github.com/PAIA-PROS/pros-blocks/releases/download/v1.0.1/PROS.Blocks-1.0.1.Setup.exe)
+[![](https://img.shields.io/badge/EXE%20Installer-v1.0.2-blue)](https://github.com/PAIA-PROS/pros-blocks/releases/download/v1.0.2/PROS.Blocks-1.0.2.Setup.exe)
 
 ### macOS 64-bit
 
 ##### Intel (x64)
 
-[![](https://img.shields.io/badge/DMG%20Installer-v1.0.1-red)](https://github.com/PAIA-PROS/pros-blocks/releases/download/v1.0.1/PROS.Blocks-1.0.1-x64.dmg)
+[![](https://img.shields.io/badge/DMG%20Installer-v1.0.2-red)](https://github.com/PAIA-PROS/pros-blocks/releases/download/v1.0.2/PROS.Blocks-1.0.2-x64.dmg)
 
 ##### Apple Silicon (Arm64)
 
-[![](https://img.shields.io/badge/DMG%20Installer-v1.0.1-red)](https://github.com/PAIA-PROS/pros-blocks/releases/download/v1.0.1/PROS.Blocks-1.0.1-arm64.dmg)
+[![](https://img.shields.io/badge/DMG%20Installer-v1.0.2-red)](https://github.com/PAIA-PROS/pros-blocks/releases/download/v1.0.2/PROS.Blocks-1.0.2-arm64.dmg)
